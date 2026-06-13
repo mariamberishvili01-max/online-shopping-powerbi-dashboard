@@ -16,3 +16,8 @@ Power BI Desktop, DAX
 - US is the top market with $12.4M in profit
 - 127.2K total orders | $34.6M gross income
 - Bachelors degree holders are the largest customer segment
+
+## Dashboard Preview
+![Sales Performance](screenshot.1.png)
+![Product Analysis](screenshot.2.png)
+![Customer Insights](screenshot.3.png)
